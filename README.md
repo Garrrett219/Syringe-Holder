@@ -13,7 +13,7 @@ Our device fits into the DT-34 Rotation Stage eqipment. The DT-34 is intended fo
 velocities. The DT-34 can be mounted horizontally or vertically. 
 
 <p align="center">
-<img src="./Documents/Drexel/COOP/R LAB at UCD/Syringe Holder/Pictures/Motor Top View.jpeg" width="400">
+<img src="./IMAGES/minispim3.jpeg" width="400">
 </p>
 
 ## Folder Instructions
