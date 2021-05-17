@@ -9,5 +9,5 @@ The goal of this post is to properly show how to mount the platform and install 
 
 ## Folder Instructions
 * Device Pictures includes images of the motor device as well as our additional device which is being inserted.
-* Fusion-Cad Files includes all of the fusion 360 files used during this project.
+* Fusion Files includes all of the fusion 360 files used during this project. 
 * Protocol Process includes a video animation of how our device is properly inserted into the motor. I reccomend starting here to better understand the process. 
