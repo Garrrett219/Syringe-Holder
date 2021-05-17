@@ -16,6 +16,28 @@ velocities. The DT-34 can be mounted horizontally or vertically.
 <img src="./Device Pictures/Motor Top View.jpeg" width="400">
 </p>
 
+The holder fits into the left side of the motor first, which then recieves different plugs into it. 
+
+<p align="center">
+<img src="./Device Pictures/Mold In Motor.jpg" width="400">
+</p>
+
+A capillary device is then placed into the plug, which slides all the way through the motor device to be imaged.
+
+<p align="center">
+<img src="./Device Pictures/Capillary In Motor.jpg" width="400">
+</p>
+
+<p align="center">
+<img src="./Device Pictures/Capillary In Motor 2.jpg" width="400">
+</p>
+
+After the capillary is placed into the plug, the gel agrogate is pushed out of the other capillary to be imaged. 
+
+<p align="center">
+<img src="./Device Pictures/Gel Agrogate.JPG" width="400">
+</p>
+
 ## Folder Instructions
 * Device Pictures includes images of the motor device as well as our additional device which is being inserted.
 * Fusion Files includes all of the fusion 360 files used during this project. 
