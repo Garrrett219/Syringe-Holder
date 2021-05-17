@@ -39,6 +39,6 @@ After the capillary is placed into the plug, the gel agrogate is pushed out of t
 </p>
 
 ## Folder Instructions
-* Device Pictures includes images of the motor device as well as our additional device which is being inserted.
+* Device Pictures includes all images of the device, including the ones seen here.
 * Fusion Files includes all of the fusion 360 files used during this project. 
-* Protocol Process includes a video animation of how our device is properly inserted into the motor. I reccomend starting here to better understand the process. 
+* Protocol Process includes a video animation and video of how our device is properly inserted into the motor.
